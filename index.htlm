@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>BrainBetter</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    p {
+      color: #666;
+      margin-bottom: 20px;
+    }
+
+    .cta-button {
+      display: inline-block;
+      padding: 12px 24px;
+      background-color: #007bff;
+      color: #fff;
+      border-radius: 4px;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+    }
+
+    .cta-button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to BrainBetter</h1>
+  <p>Unlock your brain's potential with our innovative learning programs.</p>
+  <a class="cta-button" href="#">Get Started</a>
+</body>
+</html>
+
